@@ -1,3 +1,1 @@
-# Fintech-Services
-## Author
-Joshua Onwuemene
+# PayNow-backend
